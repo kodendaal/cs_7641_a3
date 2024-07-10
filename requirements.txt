@@ -9,4 +9,4 @@ torch==2.3.0
 skorch==0.15.0
 jupyterlab==4.2.0
 imbalanced-learn==0.12.2
-
+ipympl
