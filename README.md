@@ -53,11 +53,10 @@ Neural Network:
     * Indicate whether you would like to load in previous pickle files in outputdir folder
     * Plot the evalauted Learning curves
 2. Load and split data into training and testing set. (Perform data standardization)
-
 3. Manually set hyperparameter ranges and evaluate grid-search (store resulting models)
 4. Using best params - Re-evaluate on multi-seed and append statistics. Evaluate final model on test set.
-8. Visualize neural network learning curves
-9. Visualzie time complexity plots for each dimensionality reduction methods
+5. Visualize neural network learning curves
+6. Visualize time complexity plots for each dimensionality reduction methods
 
 
 Write-up:
